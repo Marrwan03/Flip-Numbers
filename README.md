@@ -1,8 +1,8 @@
-<h1 align="center">Flip<br>Numbers</h1>
+<h1 align="center">🕹️Flip<br>Numbers</h1>
 
 ###
 
-<h2 align="left">Elevator Pitch:</h2>
+<h2 align="left">👀 Elevator Pitch:</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">The goal and the problem it solves:</h2>
+<h2 align="left">🎯 The goal and the problem it solves:</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Target group:</h2>
+<h2 align="left">📢 Target group:</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">Features:</h2>
+<h2 align="left">🛠️ Features:</h2>
 
 ###
 
